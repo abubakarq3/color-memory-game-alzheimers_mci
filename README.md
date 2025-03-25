@@ -6,7 +6,7 @@ The **Color Memory Game** is an interactive tool designed to support **cognitive
 
 By combining **memory-based challenges** with **Leap Motion technology**, this game aims to provide a fun, engaging, and therapeutic experience that promotes:
 
-<img width="659" alt="Image" src="https://github.com/user-attachments/assets/aa9a3bd2-c4c0-4f72-bbaf-9eb514e9392c" />
+<img width="559" alt="Image" src="https://github.com/user-attachments/assets/aa9a3bd2-c4c0-4f72-bbaf-9eb514e9392c" />
 
 - Improved **memory recall**
 - Increased **focus and attention**
